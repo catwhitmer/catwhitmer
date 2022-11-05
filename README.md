@@ -1,6 +1,6 @@
 ### 👋 Hi and welcome to my GitHub page!
 ***
-I started learning to code in January 2020 and quickly came to love programming. Since then I've been teaching myself to code through Udemy. I also attented the Flatiron Full-Stack Software engineering bootcamp, learning React and JavaScript.
+I started learning to code in January 2020 and quickly came to love programming. Since then I've been teaching myself to code through Udemy. I also attented the Flatiron Full-Stack Software engineering bootcamp, learning React, JavaScript, and Ruby on Rails.
 
 One of my projects is a Github Profile finder app ([demo link](https://github-finder-rho-ashy.vercel.app/)), which allows users to search github profiles. Another project is a Pet Care app ([demo link](https://github.com/catwhitmer/petCare)).
 ***
