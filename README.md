@@ -2,7 +2,7 @@
 ***
 I started learning to code in January 2020 and quickly came to love programming. Since then I've been teaching myself to code through Udemy. I also attented the Flatiron Full-Stack Software engineering bootcamp, learning React and JavaScript.
 
-One of my projects is a Pet Care app ([demo link](https://github.com/catwhitmer/pet_care-frontend)), which allows users to track and update to-do's for their pets. Another project is a Hogwarts Student app ([demo link](https://github.com/catwhitmer/students-js-frontend)).
+One of my projects is a Github user finder app ([demo link](https://github-finder-rho-ashy.vercel.app/)), which allows users to search github profiles. Another project is a Pet Care app ([demo link](https://github.com/catwhitmer/petCare)).
 ***
 
 ### I'm comfortable using:
