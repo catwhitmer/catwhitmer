@@ -12,7 +12,7 @@ HTML5 ~ CSS3 ~ JavaScript ~ React ~ Redux ~ TypeScript ~ styled-components ~ Mat
 
 ### What am I doing right now?
 
--Rebuilding my [Pet Care](https://github.com/catwhitmer/petCare) app using React 18, Redux, and Express <br>
+-Rebuilding my [Pet Care](https://github.com/catwhitmer/petCare) app using React 18, Redux-Toolkit, and Express <br>
 -Deep Dive into CSS <br>
 
 My next project: House App <br>
