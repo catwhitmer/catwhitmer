@@ -12,7 +12,7 @@ HTML5 ~ CSS3 ~ JavaScript ~ React ~ Redux ~ TypeScript ~ styled-components ~ Mat
 
 ### What am I doing right now?
 
--Adding features to my [Pet Care](https://github.com/catwhitmer/petCare) app (edit, login). <br>
+-Adding features to my [Pet Care](https://github.com/catwhitmer/petCare) app (login, spinner). <br>
 -Deep Dive into JS <br>
 
 My next project: Travel Map App <br>
