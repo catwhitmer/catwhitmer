@@ -15,7 +15,7 @@ HTML5 ~ CSS3 ~ JavaScript ~ React ~ Redux ~ TypeScript ~ styled-components ~ Mat
 -Adding features to my [Pet Care](https://github.com/catwhitmer/petCare) app (edit, login). <br>
 -Deep Dive into JS <br>
 
-<!-- My next project: House App <br> -->
+My next project: Travel Map App <br>
 
 Things I Enjoy:
 Coding ~ Reading ~ Video games ~ Coffee ~ My dogs
