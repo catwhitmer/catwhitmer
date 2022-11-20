@@ -13,7 +13,7 @@ HTML5 ~ CSS3 ~ JavaScript ~ React ~ Redux ~ TypeScript ~ styled-components ~ Mat
 ### What am I doing right now?
 
 -Adding features to my [Pet Care](https://github.com/catwhitmer/petCare) app (login, spinner). <br>
--Deep Dive into JS <br>
+-Redoing my [Hogwarts Student Roster](https://github.com/catwhitmer/students-js-frontend) app (one repo, restyle, login). <br>
 
 My next project: Travel Map App <br>
 
