@@ -2,7 +2,7 @@
 ***
 I started learning to code in January 2020 and quickly came to love programming. Since then I've been teaching myself to code and also attended the Flatiron Full-Stack Software engineering Bootcamp, learning JavaScript, React/Redux, and Ruby on Rails.
 
-One of my projects is a Github Profile finder app ([demo link](https://github-finder-rho-ashy.vercel.app/)), which allows users to search GitHub profiles. Another project is a Pet Care app ([demo link](https://pet-careapp.herokuapp.com/)), which allows users to keep track of their pet's needs.
+One of my projects is a Pet Care app ([demo link](https://pet-careapp.herokuapp.com/)), which allows users to keep track of their pet's needs. Another project is a Github Profile finder app ([demo link](https://github-finder-rho-ashy.vercel.app/)), which allows users to search GitHub profiles.
 ***
 
 ### I'm comfortable using:
