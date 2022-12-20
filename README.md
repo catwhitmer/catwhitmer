@@ -1,4 +1,4 @@
-### 👋 Hi and welcome to my GitHub page!
+### 👋 Hi and welcome!
 ***
 I started learning to code in late 2019 and quickly came to love programming. Since then I've been teaching myself to code using various websites before attending the Flatiron Full-Stack Software engineering Bootcamp, learning JavaScript, React/Redux, and Ruby on Rails.
 
