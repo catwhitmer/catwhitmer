@@ -6,7 +6,7 @@ One of my projects is a Pet Care app ([demo link](https://pet-careapp.herokuapp.
 ***
 
 ### My Skills:
-HTML5/CSS3 ~ JavaScript ~ TypeScript ~ React ~ Redux ~ Express.JS ~ Node.JS ~ Ruby on Rails ~ styled-components ~ Material-UI
+HTML/CSS ~ JavaScript ~ TypeScript ~ React ~ Redux ~ Express ~ Node ~ Ruby on Rails ~ styled-components ~ Material-UI
 
 ***
 
