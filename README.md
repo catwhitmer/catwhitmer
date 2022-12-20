@@ -17,6 +17,8 @@ HTML5/CSS3 ~ JavaScript ~ React ~ Redux ~ TypeScript ~ styled-components ~ Mater
 
 My next project: Travel Map App <br>
 
-Things I Enjoy:
-Coding ~ Reading ~ Video games ~ Coffee ~ My dogs
+Things I Enjoy: <br>
+~ reading true crime books <br>
+~ playing video games(RE, Zelda, Pokemon, The last of us, HZD) <br>
+~ drinking coffee ~ my dogs
 
