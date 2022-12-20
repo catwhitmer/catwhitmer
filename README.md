@@ -10,7 +10,7 @@ HTML5/CSS3 ~ JavaScript ~ React ~ Redux ~ TypeScript ~ styled-components ~ Mater
 
 ***
 
-### My current Projects
+### My current Projects:
 
 ~ Adding features to my [Pet Care](https://github.com/catwhitmer/petCare) app (login, spinner). <br>
 ~ Refactoring my [Hogwarts Student Roster](https://github.com/catwhitmer/students-js-frontend) app (modern React and Express API, login). <br>
