@@ -15,7 +15,7 @@ HTML/CSS ~ JavaScript ~ TypeScript ~ React ~ Redux ~ Express ~ Node ~ Ruby on Ra
 ~ Adding features to my [Pet Care](https://github.com/catwhitmer/petCare) app (login, spinner). <br>
 ~ Refactoring my [Hogwarts Student Roster](https://github.com/catwhitmer/students-js-frontend) app (modern React and Express API, login). <br>
 
-My next project: Travel Map App <br>
+My next project: House Marketplace App <br>
 
 Things I Enjoy: <br>
 ~ reading true crime books <br>
