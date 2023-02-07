@@ -6,7 +6,7 @@ One of my projects is a Github Profile finder app ([demo link](https://github-fi
 ***
 
 ### My Skills:
-HTML/CSS ~ JavaScript ~ TypeScript ~ React ~ Redux ~ Ruby on Rails ~ Express ~ Node ~ styled-components ~ Material-UI
+HTML/CSS ~ JavaScript ~ TypeScript ~ React ~ Redux ~ MERN ~ Express ~ Node ~ styled-components ~ Material-UI
 
 ***
 
