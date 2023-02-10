@@ -1,4 +1,4 @@
-### 👋 Hi and welcome!
+### 👋 Hi and welcome to my Page!
 ***
 I started learning to code in late 2019 and quickly came to love programming. Since then I've been teaching myself to code using Udemy before attending the Flatiron Full-Stack Software engineering Bootcamp in 2020, learning JavaScript, React/Redux, and Ruby on Rails.
 
