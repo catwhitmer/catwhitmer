@@ -17,9 +17,7 @@ HTML/CSS ~ JavaScript ~ TypeScript ~ React ~ Redux ~ MERN ~ Express ~ Node ~ sty
 ~ Adding features to my [Pet Care](https://github.com/catwhitmer/petCare) app (login, spinner, restyle). <br>
 ~ Refactoring my [Hogwarts Student Roster](https://github.com/catwhitmer/students-js-frontend) app (modern React and Express API, login). <br>
 
-***
-
-### My next project: Bucket List Travel Map <br>
+My next project: Bucket List Travel Map <br>
 
 ***
 
