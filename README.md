@@ -25,6 +25,7 @@ My next project: Bucket List Travel Map <br>
 
 ~ reading true crime books <br>
 ~ playing video games (RE, Zelda, Pokemon, The last of Us, HZD) <br>
-~ drinking coffee ~ my dogs <br>
+~ drinking coffee <br>
+~ my dogs <br>
 ~ going on walks
 
