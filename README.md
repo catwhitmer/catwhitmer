@@ -8,14 +8,14 @@ One of my projects is a Support Desk app ([demo link](https://wildelksupportdesk
 ***
 
 ### My Skills:
-HTML/CSS ~ JavaScript ~ TypeScript ~ React ~ Redux ~ Node ~ Express ~ Ruby on Rails ~ styled-components ~ Material-UI
+HTML/CSS ~ JavaScript ~ TypeScript ~ React ~ Redux ~ Node ~ Express ~ styled-components ~ Material-UI
 
 ***
 
 ### My current Projects:
 
 ~ Adding features to my [Pet Care](https://github.com/catwhitmer/petCare) app (login, spinner, restyle). <br>
-~ Refactoring my [Hogwarts Student Roster](https://github.com/catwhitmer/students-js-frontend) app (modern React and Ruby on Rails API, login). <br>
+~ Refactoring my [Hogwarts Student Roster](https://github.com/catwhitmer/students-js-frontend) app (modern React and Node API, login). <br>
 
 My next project: Bucket List Travel Map <br>
 
