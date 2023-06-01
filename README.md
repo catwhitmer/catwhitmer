@@ -1,4 +1,4 @@
-### 👋 Hi and welcome to my Page!
+### 👋 Hi and welcome!
 ***
 I started learning to code in late 2019 and quickly came to love programming. Since then I've been teaching myself to code using online courses and websites before attending the Flatiron Full-Stack Software engineering Bootcamp in 2020, learning JavaScript, React/Redux, and Ruby on Rails.
 
@@ -18,6 +18,7 @@ HTML/CSS ~ JavaScript ~ TypeScript ~ React ~ Redux ~ Node ~ Express ~ styled-com
 ~ Refactoring my [Hogwarts Student Roster](https://github.com/catwhitmer/students-js-frontend) app (modern React and Node API, login). <br>
 
 My next project: Bucket List Travel Map <br>
+What am I learning next: Python and Figma <br>
 
 ***
 
