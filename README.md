@@ -14,8 +14,8 @@ HTML/CSS ~ JavaScript ~ TypeScript ~ React ~ Redux ~ Node ~ Express ~ styled-com
 
 ### My Current Projects:
 
+~ Building my [BucketList Map](https://github.com/catwhitmer/) app. <br>
 ~ Adding features to my [Pet Care](https://github.com/catwhitmer/petCare) app (login, spinner, restyle). <br>
-~ Refactoring my [Hogwarts Student Roster](https://github.com/catwhitmer/students-js-frontend) app (modern React and Node API, login). <br>
 
 My next project: Bucket List Travel Map <br>
 What am I learning next: Python and Figma <br>
