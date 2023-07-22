@@ -14,7 +14,7 @@ HTML/CSS ~ JavaScript ~ TypeScript ~ React ~ Redux ~ Node ~ Express ~ styled-com
 
 ### My Current Projects:
 
-~ Building my [BucketList Map](https://github.com/catwhitmer/) app. <br>
+~ Building my [BucketList Map](https://github.com/catwhitmer/bucket-list-map-app) app. <br>
 ~ Adding features to my [Pet Care](https://github.com/catwhitmer/petCare) app (login, spinner, restyle). <br>
 
 My next project: Bucket List Travel Map <br>
